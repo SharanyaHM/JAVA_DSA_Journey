@@ -1,8 +1,9 @@
+package Two_Pointers;
 // LC026 - Remove Duplicates from Sorted Array
 // Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 // Time: O(n) | Space: O(1)
 
-class LC026_RemoveDuplicatesFromSortedArray {
+class LC0026_RemoveDuplicatesFromSortedArray {
     
     public int removeDuplicates(int[] nums) {
         int i, k, size;

@@ -1,3 +1,4 @@
+package Two_Pointers;
 // LC350 - Intersection of Two Arrays II (HashMap)
 // Link: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 // Time: O(n + m) | Space: O(n)

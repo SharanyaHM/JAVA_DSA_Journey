@@ -1,3 +1,4 @@
+package Two_Pointers;
 // Union of Two Sorted Arrays (Optimal)
 // Link: https://takeuforward.org/plus/dsa/problems/union-of-two-sorted-arrays
 // Time: O(n + m) | Space: O(n + m)

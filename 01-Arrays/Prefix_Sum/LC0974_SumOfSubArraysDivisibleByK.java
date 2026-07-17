@@ -1,3 +1,4 @@
+package Prefix_Sum;
 // LC974 - Subarray Sums Divisible by K
 // Link: https://leetcode.com/problems/subarray-sums-divisible-by-k/
 // Time: O(n) | Space: O(n)

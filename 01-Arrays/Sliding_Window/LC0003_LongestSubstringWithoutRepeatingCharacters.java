@@ -3,7 +3,7 @@
 // Time: O(n) | Space: O(n)
  
 import java.util.*;
-class LC03_LongestSubstringWithoutRepeatingCharacters {
+class LC0003_LongestSubstringWithoutRepeatingCharacters {
     public int lengthOfLongestSubstring(String s) {
         HashSet<Character> set = new HashSet<>();
         int left = 0;

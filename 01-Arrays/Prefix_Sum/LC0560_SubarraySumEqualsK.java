@@ -1,3 +1,4 @@
+package Prefix_Sum;
 // LC560 - Subarray Sum Equals K
 // Link: https://leetcode.com/problems/subarray-sum-equals-k/
 // Time: O(n) | Space: O(n)

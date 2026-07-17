@@ -1,8 +1,9 @@
+package Two_Pointers;
 // LC75 - Sort Colors
 // Link: https://leetcode.com/problems/sort-colors/
 // Time: O(n) | Space: O(1)
 
-public class LC075_SortColors {
+public class LC0075_SortColors {
 
     public void sortColors(int[] nums) {
         int low = 0;

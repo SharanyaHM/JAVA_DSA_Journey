@@ -1,3 +1,4 @@
+package Prefix_Sum;
 /*
 TUF- Longest Subarray with Sum K
 Link:https://takeuforward.org/plus/dsa/problems/longest-subarray-with-sum-k

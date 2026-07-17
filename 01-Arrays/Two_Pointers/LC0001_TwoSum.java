@@ -1,10 +1,11 @@
+package Two_Pointers;
 // LC001 - Two Sum
 // https://leetcode.com/problems/two-sum/
 // Time: O(n) | Space: O(n)
 
 import java.util.*;
 
-public class LC001_TwoSum {
+public class LC0001_TwoSum {
     
     
     public int[] twoSum(int[] nums, int target) {

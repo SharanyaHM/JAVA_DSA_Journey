@@ -2,7 +2,7 @@
 // Link: https://leetcode.com/problems/merge-sorted-array/
 // Time: O(m + n) | Space: O(1)
 
-class LC088_MergeSortedArrays {
+class LC0088_MergeSortedArrays {
     
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int i = m - 1;

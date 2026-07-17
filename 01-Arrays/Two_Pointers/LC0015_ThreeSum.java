@@ -1,10 +1,11 @@
+package Two_Pointers;
 // LC15 - 3Sum
 // Link: https://leetcode.com/problems/3sum/
 // Time: O(n^2) | Space: O(1)
 
 import java.util.*;
 
-public class LC015_ThreeSum {
+public class LC0015_ThreeSum {
 
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> result = new ArrayList<>();

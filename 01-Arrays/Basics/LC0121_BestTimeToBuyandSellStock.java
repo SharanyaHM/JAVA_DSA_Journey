@@ -2,7 +2,7 @@
 // Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 // Time: O(n) | Space: O(1)
 
-public class LC0121_BestTimetoBuyandSellStock {
+public class LC0121_BestTimeToBuyandSellStock {
 
     public int maxProfit(int[] prices) {
         int maxProfit = 0;

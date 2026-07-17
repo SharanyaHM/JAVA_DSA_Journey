@@ -1,8 +1,9 @@
+package Two_Pointers;
 // LC11 - Container With Most Water
 // Link: https://leetcode.com/problems/container-with-most-water/
 // Time: O(n) | Space: O(1)
  
-public class LC011_ContainerWithMostWater {
+public class LC0011_ContainerWithMostWater {
    public int maxArea(int[] height) {
         int i = 0;
         int j = height.length - 1;
