@@ -1,11 +1,5 @@
-package Sliding_Window;
-// LC219 - Contains Duplicate II
-// Link: https://leetcode.com/problems/contains-duplicate-ii/
-// Time: O(n) | Space: O(n)
-
-import java.util.HashMap;
-
-public class LC0219_ContainsDuplicate2 {
+import java.util.*;
+class LC0219_ContainsDuplicate2{
     
     public boolean containsNearbyDuplicate(int[] nums, int k) {
         HashMap<Integer, Integer> map = new HashMap<>();
@@ -23,5 +17,4 @@ public class LC0219_ContainsDuplicate2 {
     }
 
 }
-
 
