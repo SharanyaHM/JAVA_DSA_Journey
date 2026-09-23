@@ -1,0 +1,20 @@
+// LC119 - Pascal's Triangle II
+// Link: https://leetcode.com/problems/pascals-triangle-ii/
+// Approach: Generate the row using the binomial coefficient formula
+// Time: O(n) | Space: O(n)
+// 
+class Solution {
+    public List<Integer> getRow(int rowIndex) {
+        List<Integer> ans=new ArrayList<>();
+        long res=1,n=rowIndex+1;
+        ans.add((int)res);
+        for(int i=1;i<n;i++){
+            res=res*(n-i);
+            res=res/i;
+            ans.add((int)res);
+        }
+        return ans;
+
+        
+    }
+}
